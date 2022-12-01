@@ -1,0 +1,13 @@
+com\springBoot\security\service\MyService.class
+com\springBoot\security\controller\RegisterController.class
+com\springBoot\security\model\RoleClass.class
+com\springBoot\security\service\MyServiceImpl.class
+com\springBoot\security\config\UserDetailsServiceImpl.class
+com\springBoot\security\repository\UserRepository.class
+com\springBoot\security\SpringBoot4SecurityApplication.class
+com\springBoot\security\model\UserClass.class
+com\springBoot\security\config\MySecurityConfig.class
+com\springBoot\security\controller\MainController.class
+com\springBoot\security\dto\UserDto.class
+com\springBoot\security\repository\RoleRepository.class
+com\springBoot\security\formatter\RoleFormatter.class
