@@ -1,2 +1,8 @@
 # Sample-Project-1
-A spring boot project
+Some spring boot projects
+Features:
+* Spring Boot
+* Spring Data JPA
+* Spring Security
+* Validation
+* Thymeleaf
